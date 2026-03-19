@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/madhav5285/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/madhav5285/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Simulation
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0709-to-lower-case](https://github.com/madhav5285/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/madhav5285/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/madhav5285/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/madhav5285/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
