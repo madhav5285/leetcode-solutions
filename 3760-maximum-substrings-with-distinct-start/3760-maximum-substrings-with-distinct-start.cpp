@@ -1,11 +1,14 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        unordered_map<char,int>mp;
-        for(int i=0;i<s.size();i++){
-            mp[s[i]]++;
+        vector<bool>seen(26, false);
+        for (char ch : s) {
+            seen[ch-'a']=true;
         }
-        int ans=mp.size();
-        return ans;
+        int cnt=0;
+        for (bool x:seen) {
+            if(x)cnt++;
+        }
+        return cnt;
     }
 };
