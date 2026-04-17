@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/madhav5285/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/madhav5285/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhav5285/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/madhav5285/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3701-compute-alternating-sum](https://github.com/madhav5285/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/madhav5285/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/madhav5285/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhav5285/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhav5285/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/madhav5285/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/madhav5285/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/madhav5285/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhav5285/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/madhav5285/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
 | ------- |
