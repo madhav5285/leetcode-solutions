@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhav5285/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [2235-add-two-integers](https://github.com/madhav5285/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [3516-find-closest-person](https://github.com/madhav5285/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/madhav5285/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Linked List
 |  |
