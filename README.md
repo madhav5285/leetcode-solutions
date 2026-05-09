@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/madhav5285/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/madhav5285/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3516-find-closest-person](https://github.com/madhav5285/leetcode-solutions/tree/master/3516-find-closest-person) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav5285/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/madhav5285/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Linked List
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhav5285/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3701-compute-alternating-sum](https://github.com/madhav5285/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/madhav5285/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav5285/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
