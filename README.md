@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/madhav5285/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/madhav5285/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/madhav5285/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhav5285/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3516-find-closest-person](https://github.com/madhav5285/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav5285/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/madhav5285/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
