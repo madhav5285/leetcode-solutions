@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/madhav5285/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/madhav5285/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0832-flipping-an-image](https://github.com/madhav5285/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/madhav5285/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhav5285/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/madhav5285/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhav5285/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/madhav5285/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhav5285/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhav5285/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhav5285/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/madhav5285/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/madhav5285/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/madhav5285/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhav5285/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhav5285/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/madhav5285/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
