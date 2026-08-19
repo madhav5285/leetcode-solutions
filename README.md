@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/madhav5285/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1922-count-good-numbers](https://github.com/madhav5285/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/madhav5285/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/madhav5285/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/madhav5285/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhav5285/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhav5285/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -162,4 +163,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhav5285/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/madhav5285/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/madhav5285/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/madhav5285/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/madhav5285/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
