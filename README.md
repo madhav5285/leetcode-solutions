@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/madhav5285/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/madhav5285/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/madhav5285/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhav5285/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/madhav5285/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/madhav5285/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhav5285/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Bit Manipulation
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhav5285/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/madhav5285/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/madhav5285/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/madhav5285/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhav5285/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/madhav5285/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/madhav5285/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Range Minimum/Maximum Query
 |  |
