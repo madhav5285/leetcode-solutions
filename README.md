@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhav5285/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhav5285/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3516-find-closest-person](https://github.com/madhav5285/leetcode-solutions/tree/master/3516-find-closest-person) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/madhav5285/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav5285/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/madhav5285/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Linked List
