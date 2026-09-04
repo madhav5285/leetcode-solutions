@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/madhav5285/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/madhav5285/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav5285/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3903-smallest-stable-index-i](https://github.com/madhav5285/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/madhav5285/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/madhav5285/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/madhav5285/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
