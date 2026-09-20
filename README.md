@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/madhav5285/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/madhav5285/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [3498-reverse-degree-of-a-string](https://github.com/madhav5285/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/madhav5285/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/madhav5285/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/madhav5285/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhav5285/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/madhav5285/leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/madhav5285/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/madhav5285/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/madhav5285/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Two Pointers
