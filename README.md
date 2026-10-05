@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/madhav5285/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/madhav5285/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/madhav5285/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3945-digit-frequency-score](https://github.com/madhav5285/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhav5285/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/madhav5285/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/madhav5285/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/madhav5285/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
