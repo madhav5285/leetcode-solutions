@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/madhav5285/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/madhav5285/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0832-flipping-an-image](https://github.com/madhav5285/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/madhav5285/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/madhav5285/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/madhav5285/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhav5285/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/madhav5285/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/madhav5285/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/madhav5285/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhav5285/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Bit Manipulation
 |  |
